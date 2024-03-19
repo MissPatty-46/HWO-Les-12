@@ -1,0 +1,112 @@
+/* header */
+#header {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    height: 50px;
+    width: 825px;
+}
+/* footer */
+#footer {
+    background-color: green;
+    color: white;
+    text-align: center;
+    height: 50px;
+    width: 825px;
+}
+
+/* Rij 1 */
+#c1 {
+    background-color: white;
+    text-align: center;
+    width: 200px;
+}
+#td1 {
+    background-color: #006600;
+}
+#td2 {
+    background-color: #009900;
+}
+#c3 {
+    background-color: wheat;
+    text-align: center;
+    width: 200px;
+}
+#td3 {
+    background-color: #00cc00;
+}
+#td4 {
+    background-color: #00ff00;
+}
+
+/* Rij 2 */
+#c5 {
+    background-color: greenyellow;
+    text-align: center;
+    width: 200px;
+}
+#td5 {
+    background-color: #3366ff;
+}
+#c6 {
+    background-color: #3399ff;
+}
+#c7 {
+    background-color: green;
+    text-align: center;
+    width: 200px;
+}
+#td7 {
+    background-color: #33ccff;
+}
+#c8 {
+    background-color: #33ffff;
+}
+
+/* Rij 3 */ 
+#c9 {
+    background-color: pink;
+    text-align: center;
+    width: 200px;
+}
+#td9 {
+    background-color: #cc00ff;
+}
+#c10 {
+    background-color: #cc33ff;
+}
+#c11 {
+    background-color: palevioletred;
+    text-align: center;
+    width: 200px;
+}
+#td11 {
+    background-color: #cc66ff;
+}
+#c12 {
+    background-color: #ccccff;
+}
+
+/*Rij 4 */
+#c13 {
+    background-color: orange;
+    text-align: center;
+    width: 200px;
+}
+#td13 {
+    background-color: #ff33ff;
+}
+#c14 {
+    background-color: #ff66ff;
+}
+#c15 {
+    background-color: orangered;
+    text-align: center;
+    width: 200px;
+}
+#td15 {
+    background-color: #ff99ff;
+}
+#c16 {
+    background-color: #ffccff;
+}
